@@ -1,4 +1,4 @@
-# Research-Funding-CMS
+# Centers for Medicare & Medicaid Services Research Funding
 
 *Exploratory data analysis (EDA) of research related financial relationships between drug and device companies and physicians and teaching hospitals.*
 
@@ -8,7 +8,6 @@
 2. [Data](#Data)
 3. [EDA Crosswalk](#EDA)
 4. [Summary of Findings](#Summary)
-5. [Lessons Learned](#Lessons)
 
 -------
 
@@ -56,7 +55,7 @@ Not picutred is the distribution of Medical Supply related product payments. The
 
 After a visual inspection of funding overlap it became apparent biological related funding and drug realted funding were too closely linked. In order to simplify testing my hypothesis I chose drug related funding and non-product realted funding for a two sample T-test, as they are independent.
 
-## <a name="Summary">Sumamry of Findings</a>.5
+## <a name="Summary">Sumamry of Findings</a>
 
 Var<sub>Drug</sub> = 13,862,273,428
 Var<sub>NonProd</sub> =  9,013,276,028.22
